@@ -42,6 +42,6 @@
 
 <p>
   <a href="https://www.zhouzhenzhong.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.zhouzhenzhong.com-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/zhenzhong-zhou-7baa21192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhenzhong Zhou-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/zhenzhong-zhou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhenzhong Zhou-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:zhenzhong001.zhou@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhenzhong001.zhou@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
